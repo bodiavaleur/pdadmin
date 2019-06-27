@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/pdadmin/static/js/main.2356e175.chunk.js",
+    "main.js.map": "/pdadmin/static/js/main.2356e175.chunk.js.map",
+    "runtime~main.js": "/pdadmin/static/js/runtime~main.f7ec6ba9.js",
+    "runtime~main.js.map": "/pdadmin/static/js/runtime~main.f7ec6ba9.js.map",
+    "static/js/2.a5f729fe.chunk.js": "/pdadmin/static/js/2.a5f729fe.chunk.js",
+    "static/js/2.a5f729fe.chunk.js.map": "/pdadmin/static/js/2.a5f729fe.chunk.js.map",
+    "index.html": "/pdadmin/index.html",
+    "precache-manifest.d9f0692c69f1b0120549d13bfbdd10e0.js": "/pdadmin/precache-manifest.d9f0692c69f1b0120549d13bfbdd10e0.js",
+    "service-worker.js": "/pdadmin/service-worker.js"
+  }
+}
