@@ -24,8 +24,8 @@ export default class Operator extends Component {
 
 	checkBalance() {
 		const balance = this.props.bonuses - this.state.currentBonuses
-		const normLess = this.state.balanceNorm * 0.9
-		const normMore = this.state.balanceNorm * 1.1
+		const normLess = this.props.bonuses * 0.9
+		const normMore = this.props.bonuses * 1.1
 		let color = ''
 		let status = ''
 
