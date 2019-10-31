@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.js": "/pdadmin/static/js/main.a7fb0be9.chunk.js",
-    "main.js.map": "/pdadmin/static/js/main.a7fb0be9.chunk.js.map",
+    "main.css": "/pdadmin/static/css/main.76c82939.chunk.css",
+    "main.js": "/pdadmin/static/js/main.7b0fadf7.chunk.js",
+    "main.js.map": "/pdadmin/static/js/main.7b0fadf7.chunk.js.map",
     "runtime~main.js": "/pdadmin/static/js/runtime~main.f7ec6ba9.js",
     "runtime~main.js.map": "/pdadmin/static/js/runtime~main.f7ec6ba9.js.map",
-    "static/js/2.0f7c8efb.chunk.js": "/pdadmin/static/js/2.0f7c8efb.chunk.js",
-    "static/js/2.0f7c8efb.chunk.js.map": "/pdadmin/static/js/2.0f7c8efb.chunk.js.map",
+    "static/js/2.b22326ca.chunk.js": "/pdadmin/static/js/2.b22326ca.chunk.js",
+    "static/js/2.b22326ca.chunk.js.map": "/pdadmin/static/js/2.b22326ca.chunk.js.map",
     "index.html": "/pdadmin/index.html",
-    "precache-manifest.7b0fa470b525fa336a92675e379e8d8b.js": "/pdadmin/precache-manifest.7b0fa470b525fa336a92675e379e8d8b.js",
-    "service-worker.js": "/pdadmin/service-worker.js"
+    "precache-manifest.10a66860fffe19797235546b3c2b7968.js": "/pdadmin/precache-manifest.10a66860fffe19797235546b3c2b7968.js",
+    "service-worker.js": "/pdadmin/service-worker.js",
+    "static/css/main.76c82939.chunk.css.map": "/pdadmin/static/css/main.76c82939.chunk.css.map"
   }
 }
